@@ -174,7 +174,8 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   ~~~
 
   
- [AVR Course](https://www.youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE)
- [Mazidi book](https://drive.google.com/file/d/1zIbACN0ewcPSs0gRzlMu8bCPTVI5U8BI/view?usp=drive_link)
+ * [AVR Course](https://www.youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE)
+ 
+ * [Mazidi book](https://drive.google.com/file/d/1zIbACN0ewcPSs0gRzlMu8bCPTVI5U8BI/view?usp=drive_link)
  
  
