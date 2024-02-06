@@ -1,8 +1,7 @@
 # Embedded Systems Roadmap
 
-<img src ="https://github.com/mmmmm222/Road-maps/assets/95083236/d1410caa-14e4-4524-9daa-983437828632" width = "600" height = "500">
+<img src ="https://github.com/mmmmm222/Road-maps/assets/95083236/d1410caa-14e4-4524-9daa-983437828632" width = "450" height = "500">
 
-##### This Roadmap will start With You From The Begining Till You Will Be able To Work In This Field
 ~~~
 NOTICE : you may find some different courses ,but we focused on the concept of the embedded systems
 ~~~
@@ -74,11 +73,12 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   ~~~
   - functions
   - Pointers
+  - Data Modifiers
   - struct
   - enum
   - union
   - dynamic memory allocation
-  - project
+  - project (school system )
   ~~~
 
 
