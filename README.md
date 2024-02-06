@@ -8,7 +8,20 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 ~~~
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
+
+
+## Introduction to Git & GitHub
+
+* [git & github youtube ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s)
+
+* [How to write Readme in GitHub](https://www.youtube.com/watch?v=evz1LqEomTE)
+
+* [book](https://drive.google.com/drive/folders/1kaEu_kqoa-nUY7j8gkvGcQLsUnFywqD8)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ##  Beginner Level 
@@ -46,7 +59,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
-<!-- To make an embty file -->
+<!-- To make an embty line -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -90,13 +103,6 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
-## Introduction to Git & GitHub
-
-* [git & github youtube ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s)
-
-* [How to write Readme in GitHub](https://www.youtube.com/watch?v=evz1LqEomTE)
-
-* [book](https://drive.google.com/drive/folders/1kaEu_kqoa-nUY7j8gkvGcQLsUnFywqD8)
 
   
 <p>&nbsp;</p>
