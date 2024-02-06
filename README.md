@@ -1,6 +1,6 @@
 # Embedded Systems Roadmap
 
-<img src ="https://github.com/mmmmm222/Road-maps/assets/95083236/d1410caa-14e4-4524-9daa-983437828632" width = "500" height = "500">
+<img src ="https://github.com/mmmmm222/Road-maps/assets/95083236/d1410caa-14e4-4524-9daa-983437828632" width = "600" height = "500">
 
 ##### This Roadmap will start With You From The Begining Till You Will Be able To Work In This Field
 ~~~
@@ -24,7 +24,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <p>&nbsp;</p>
 
 
-##  Beginner Level 
+##  Beginner Level A0
 <p>&nbsp;</p>
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
@@ -68,7 +68,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
 
-## Advanced C
+## Advanced C  A1
 
 * Topics to focus on
   ~~~
@@ -112,14 +112,16 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
 
-## Data structure & Algorithms
+## Data structure & Algorithms  A2
 
 * Topics to focus on
   ~~~
   - stack
   - linked list
   - searching algorithm
+    {linear search ,)
   - sorting algorithm
+    {bubble sort ,)
   ~~~
   
 * [Dr/ waleed yousef](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
@@ -128,11 +130,26 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+## ES Concepts  A2
+
+  ~~~
+  - Computer Architecture
+  - Microcontroller Architecture
+  - CPU Architecture
+  - Memory Types
+  - RISC vs. CISC
+  - Von Neumann vs. Harvard
+  - Instruction Execution Cycle
+  - Pipe-lining Concept
+  - Input / Output Memory
+  ~~~
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
-## Intermidiate level
+## Intermidiate level B1
 
 <p>&nbsp;</p>
 
@@ -141,20 +158,23 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   - DIO Peripheral
   - LCD
   - KYPAD
-  - project 1
+  - project 1 (Calculator )
   ~~~
 <p>&nbsp;</p>
 
-~~~
-  - Electrical Switches
-  - Interrupt Concept
-  - ADC-DAC
-  - Timer
-  - UART
-  - I2c
-  - project 2
-~~~
+  ~~~
+    - Electrical Switches
+    - Interrupt Concept
+    - ADC-DAC
+    - Timer
+    - UART
+    - I2C
+    - EEPROM
+    - project 2 ( Smart Home )
+  ~~~
 
   
  [AVR Course](https://www.youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE)
+ [Mazidi book](https://drive.google.com/file/d/1zIbACN0ewcPSs0gRzlMu8bCPTVI5U8BI/view?usp=drive_link)
+ 
  
