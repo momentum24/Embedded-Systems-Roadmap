@@ -120,9 +120,9 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   - stack
   - linked list
   - searching algorithm
-    {linear search ,)
+    {linear search , Binary Search)
   - sorting algorithm
-    {bubble sort ,)
+    {bubble sort , selection Sort)
   ~~~
   
 * [Dr/ waleed yousef](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
