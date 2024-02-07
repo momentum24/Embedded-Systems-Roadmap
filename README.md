@@ -23,7 +23,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <p>&nbsp;</p>
 
 
-##  Beginner Level A0
+##  Beginner Level (A0)
 <p>&nbsp;</p>
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
@@ -67,7 +67,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
 
-## Advanced C  A1
+## Advanced C  (A1)
 
 * Topics to focus on
   ~~~
@@ -113,7 +113,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <!-- ******************************************************* -->
 <!-- ******************************************************* -->
 
-## Data structure & Algorithms  A2
+## Data structure & Algorithms  (A2)
 
 * Topics to focus on
   ~~~
@@ -132,7 +132,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## ES Concepts  A2
+## ES Concepts  (A2)
 
   ~~~
   - Computer Architecture
@@ -150,7 +150,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <p>&nbsp;</p>
 
 
-## Intermidiate level B1
+## Intermidiate level (B1)
 
 <p>&nbsp;</p>
 
