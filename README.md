@@ -38,11 +38,44 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 
 * Topics to focus on
   ~~~
-  C Basics
-  Operators
-  Conditional Statements
-  Loops
-  Arrays
+  C Basics{
+  - data types (int ,float ,double , char , long ,short )
+  - Data types size 
+  - (permitive ,derived ,user defined) data types
+  - printf ,scanf
+  - scape sequence
+  - Variables
+  - Declaration & initialization  
+  - Naming variables rules 
+  - Casting }
+
+  Operators{
+  - Arthimatic operators -> binary & unary
+  - Bitwise operators 
+  - Logical operators 
+  - Assignment operators
+  - Relational operators
+  - Application of operators(get bit -set bit -clear bit -toggle bit)
+  - Size of operator }
+  
+  Conditional Statements{
+  - if
+  - elseif
+  - else
+  - switch
+  - braek
+  - continue }
+  Loops{
+  - for
+  - while
+  - do while
+  }
+  Arrays{
+  - declare arry
+  - initialize array
+  - 1D array
+  - 2D array
+  }
   ~~~
 
 * This coure is great and will cover all what you need
