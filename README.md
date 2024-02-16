@@ -179,6 +179,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
     - Timer
     - UART
     - I2C
+    - SPI
     - EEPROM
     - project 2 ( Smart Home )
   ~~~
