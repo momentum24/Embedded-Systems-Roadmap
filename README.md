@@ -31,7 +31,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## C Programming (A1)
+## Basic C (A1)
 
 
 <p>&nbsp;</p>
