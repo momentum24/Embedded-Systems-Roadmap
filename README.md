@@ -65,17 +65,17 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   - switch
   - braek
   - continue }
+  
   Loops{
   - for
   - while
-  - do while
-  }
+  - do while}
+  
   Arrays{
   - declare arry
   - initialize array
   - 1D array
-  - 2D array
-  }
+  - 2D array}
   ~~~
 
 * This coure is great and will cover all what you need
