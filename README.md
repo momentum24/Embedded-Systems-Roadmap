@@ -71,11 +71,6 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   - while
   - do while}
   
-  Arrays{
-  - declare arry
-  - initialize array
-  - 1D array
-  - 2D array}
   ~~~
 
 * This coure is great and will cover all what you need
@@ -97,6 +92,7 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   - functions
   - Pointers
   - Data Modifiers
+  - Arrays
   - Preprocessor Directives
   - struct
   - enum
