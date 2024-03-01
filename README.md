@@ -125,10 +125,11 @@ NOTICE : you may find some different courses ,but we focused on the concept of t
   ~~~
   - stack
   - linked list
+  - Queue
   - searching algorithm
-    {linear search , Binary Search)
+    (linear search , Binary Search)
   - sorting algorithm
-    {bubble sort , selection Sort)
+    (bubble sort , selection Sort)
   ~~~
   
 * [Dr/ waleed yousef](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
